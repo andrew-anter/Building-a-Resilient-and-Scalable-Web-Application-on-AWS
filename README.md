@@ -5,6 +5,5 @@ Implement a vpc with cidr 10.0.0.0/16 with 2 public subnets with cidrs 10.0.0.0/
 
 ![image](https://github.com/andrew-anter/AWS-VPC-With-S3/assets/56892364/7248f8d9-eeca-4ddf-9f40-5e6a29ba87a8)
 
-### problem solution:
-
-{My solution}https://github.com/andrew-anter/AWS-VPC-With-S3/blob/main/Problem%20Solution.pdf
+### My solution:
+https://github.com/andrew-anter/AWS-VPC-With-S3/blob/main/Problem%20Solution.pdf
