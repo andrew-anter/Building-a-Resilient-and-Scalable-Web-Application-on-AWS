@@ -1,4 +1,4 @@
-# AWS-VPC-With-S3
+# Building a Resilient and Scalable Web Application on AWS
 
 ### Problem Statement
 ![image](https://github.com/andrew-anter/AWS-VPC-With-S3/assets/56892364/7248f8d9-eeca-4ddf-9f40-5e6a29ba87a8)
